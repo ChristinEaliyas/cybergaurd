@@ -23,8 +23,8 @@ This model uses a BERT-based architecture, fine-tuned for text classification. T
     pip install -r requirements.txt
     ```
 
-3. Download the pre-trained model from the following link and place it in the `crime-classification-model` directory:
-    [Download Model](https://drive.google.com/drive/u/1/folders/1CO6mDN92XE_SMYA62nVAgy5aPMF1dPRE) 
+3. Download the fine-tuned model from the following link and place it in the `crime-classification-model` directory:
+    [Download fine-tuned BERT Model](https://drive.google.com/drive/u/1/folders/1CO6mDN92XE_SMYA62nVAgy5aPMF1dPRE) 
 
 4. Download the helper-functions from the link below and place it in the `notebooks/data/helper` directory:
     [Download helper functions](https://drive.google.com/drive/u/1/folders/1OV7J8gwhELuznXSghP2bscbbYCUb80SQ)
