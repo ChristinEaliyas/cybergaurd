@@ -14,8 +14,8 @@ This model uses a BERT-based architecture, fine-tuned for text classification. T
 ## Setup
 1. Clone this repository:
     ```bash
-    git clone https://github.com/username/cyber-threat-classification.git
-    cd cyber-threat-classification
+    git clone https://github.com/ChristinEaliyas/cyberguard.git
+    cd cyberguard
     ```
 
 2. Install necessary dependencies:
