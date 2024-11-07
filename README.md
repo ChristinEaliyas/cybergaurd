@@ -1,4 +1,4 @@
-# Cyber Threat Intelligence Text Classification Model
+# Crime Classification NLP Model
 
 This repository provides instructions on running inference on a pre-trained classification model for cyber threat intelligence. The model is fine-tuned to classify text data into specific categories related to cyber threats.
 
