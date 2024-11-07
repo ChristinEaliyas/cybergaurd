@@ -27,7 +27,7 @@ This model uses a BERT-based architecture, fine-tuned for text classification. T
     [Download Model](https://drive.google.com/drive/u/1/folders/1CO6mDN92XE_SMYA62nVAgy5aPMF1dPRE) 
 
 4. Download the helper-functions from the link below and place it in the `notebooks/data/helper` directory:
-    [Download helder functions](https://drive.google.com/drive/u/1/folders/1OV7J8gwhELuznXSghP2bscbbYCUb80SQ)
+    [Download helper functions](https://drive.google.com/drive/u/1/folders/1OV7J8gwhELuznXSghP2bscbbYCUb80SQ)
 
 ## Evaluation Instructions
 1. Ensure your dataset `evaluation.csv` is available in the root of the repository.
